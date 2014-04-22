@@ -16,3 +16,10 @@ Forma de trabajo
 =================
   * Cada quien va a hacer una rama (branch) con el nombre.
   * Todos los cambios se van a hacer con dicho branch.
+
+## ADL
+
+,,,
+cd G:/Documents/UAEH/Auditoría-Informática/Auditoria/
+
+,,,
