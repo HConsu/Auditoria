@@ -1,0 +1,85 @@
+TEMAS PARA PROYECTO FINAL AUDITORIA INFORMÁTICA:
+  CAPITULO 1:
+    * 1.3 ÁREA INFORMÁTICA. (C)
+    * 1.4 ORIGEN DE LA AUDITORIA (D)
+    * 1.5.  OBJETIVOS Y ALCANCE (A)
+       1.5.1 OBJETIVO GENERAL	
+       1.5.2 OBJETIVOS ESPECIFICOS
+    * 1.6. ENFOQUE A UTILIZAR (J)
+    * 1.7. DOCUMENTOS A SOLICITAR (C)
+    * 1.8. ORGANIGRAMA {COLOCAR EL ORGANIGRAMA DE SUS CASOS DE ESTUDIO} (D)
+    * 1.9. RELACION DE FUNCIONARIOS DEL AREA A EXAMINAR (A)
+    * 1.10. TIPO DE SOFTWARE A UTILIZAR (J)
+    * 1.10.1 CERTERO PCAUDITOR (C)
+        HARDWARE
+        SERVICES
+        SOFTWARE
+        LICENCIAS
+        SOPORTES
+        INFORMES  
+    * 1.10.2 INFORMES (D)
+    
+    * 2. INFORMES (A)
+      * 2.1. Equipos de Cómputo:
+        * 2.1.1 Cuantos equipos existen
+/*
+  {En esta parte no se que onda, hay que checar el documento de Luis para guiarnos con los temas y saber donde ubicarlos}
+*/  
+
+    * 3. PUNTOS DEBILES Y AMENAZAS. (J)
+      * MATRIZ FODA(PROPUESTA) (C)
+        * 3.1. RECOMENDACIONES DE LA AUDITORIA (D)
+        
+    * 4. CONEXIONES ELÉCTRICAS (A)
+      * 4.1. PUNTOS DÉBILES Y AMENAZAS.
+      * 4.2. RECOMENDACIONES 
+      
+    * 5. CABLEADO ESTRUCTURADO. (J)
+       NORMA TIA/EIA-568-B
+       Objetivos
+      * 5.1. PUNTOS DÉBILES Y AMENAZAS.
+      * 5.2. RECOMENDACIONES 
+      
+    * 6. CONEXIONES DE REDES (C)
+      * 6.1. PUNTOS DÉBILES Y AMENAZAS
+      
+    * 7. LICENCIAMIENTO DEL SOFTWARE (D)
+      * 7.1. PUNTOS DÉBILES Y AMENAZAS
+        * 7.1.1. RECOMENDACIONES
+        
+      * 7.2. PLANES DE CONTINGENCIA. (A)
+        * 7.2.1. PUNTOS DÉBILES Y AMENAZAS.
+        * 7.2.2. RECOMENDACIONES
+      * 7.3. NORMAS PARA USO DE LAS SALAS DE SISTEMAS
+      PROPUESTA (J)
+    
+      
+    
+
+  CAPITULO 2:
+  { /*todo esto lo puede hacer una sola persona, u bien puede dividirse*/ (C,A,D,J)
+    * AUDITORIA FISICA
+    * LISTADO DE VERIFICACION DE AUDITORIA FISICA
+    * Evaluación de análisis física de Cómputo
+    * Análisis de la delimitación la manera en que se cumplen:
+    * Análisis de la estabilidad y el aprovechamiento de los recursos a para instalar el centro de cómputo.
+    * Evaluación del diseño según el ámbito
+    * Análisis de la seguridad física
+  }
+    * INFORME DE AUDITORIA (C)
+      * 6. Alcance de la auditoria 
+      * 7. Conclusiones:
+      * 8. Recomendaciones
+      * 9. Fecha Del Informe
+      * 10. Identificación Y Firma Del Auditor
+      
+    * AUDITORIA DE LA OFIMATICA (D)
+    * INFORME DE AUDITORIA (A)
+    * AUDITORIA A LOS SISTEMAS DE REDES (J)
+    * INFORME DE AUDITORIA (C)
+    * BALANCE DE RESULTADOS (D)
+  *CONCLUSIONES (A)
+  * INFORME FINAL DE AUDITORIA (J)
+  * RESULTADOS (C)
+  * RESUMEN DE NO CONFORMIDADES (D)
+  * AREAS DE OPORTUNIDAD O DE MEJORA (A)
